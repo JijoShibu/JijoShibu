@@ -2,6 +2,8 @@
 
 I'm a Cybersecurity Research Intern, seeking junior SOC and vulnerability assessment and penetration testing (VAPT) roles. I enjoy working from raw evidence to a finding someone else can check.
 
+[Try a 15-minute investigation](https://github.com/JijoShibu/soc-auth-investigation/blob/main/challenge.md) · [Read the cybersecurity guides](https://github.com/JijoShibu/cybersecurity-articles#readme)
+
 ## Security operations
 
 **What can three failed logins and a later success tell an analyst?** This synthetic case follows one account through nine sign-in events. Read the timeline, check the SQLite filter, and see what evidence would change the triage decision. [Read the investigation](https://github.com/JijoShibu/soc-auth-investigation#readme)
@@ -14,4 +16,4 @@ I'm a Cybersecurity Research Intern, seeking junior SOC and vulnerability assess
 
 For a software testing example, PromptForge's QA record describes the checks run on Linux and the separate Windows test plan. [Read the QA report](https://github.com/JijoShibu/PromptForge/blob/main/desktop-app/QA_TEST_REPORT.md)
 
-[Connect on LinkedIn](https://www.linkedin.com/in/jijo-shibu-/)
+[Connect on LinkedIn](https://www.linkedin.com/in/jijoshibu)
